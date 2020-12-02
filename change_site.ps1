@@ -2,7 +2,7 @@
 # Import-Module ServerManager
 # Add-WindowsFeature Web-Scripting-Tools
 
-Clear-Host
+#Clear-Host
 Import-Module WebAdministration
 
 
